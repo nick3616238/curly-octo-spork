@@ -1,4 +1,4 @@
 {
   "name": "R Codespace",
-  "image": "ghcr.io/rocker-org/devcontainer/tidyverse:4.0" // Or another specific Rocker image
+  "image": "ghcr.io/rocker-org/devcontainer/tidyverse:4.3" // Or another specific Rocker image
 }
